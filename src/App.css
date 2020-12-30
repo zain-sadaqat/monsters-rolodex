@@ -7,6 +7,19 @@
   pointer-events: none;
 }
 
+body {
+  padding: 30px 0;
+}
+
+.App {
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Bigelow Rules';
+  font-size: 50px;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
